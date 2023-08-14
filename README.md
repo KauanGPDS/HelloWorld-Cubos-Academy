@@ -1,1 +1,1 @@
-# HelloWorld-Cubos-Academy
+Estou imprimido na tela A palavra "Hello World", usando o comando console.log.
